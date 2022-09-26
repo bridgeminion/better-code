@@ -1,0 +1,4351 @@
+{
+  "ok": true,
+  "head": {
+    "$rpc$-service": "umetadata"
+  },
+  "body": {
+    "instances": [
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_byoq_lifecycle"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rider.fact_rider_app_event_error"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_account_activity_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_insurance.rate"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.property_type"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.dim_experiment_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_offer_payment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.dim_user_latest_device"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.analytics_eater"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_facility"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.dim_city_mdl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_morpheus_experiment_treatments_treatment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.salesforce_opportunity"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_ticket_analytics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_deduped_jira_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_supply_chain-info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_predispatch"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_category"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats_stg.fact_eats_trip_grp_order"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.initech_employees"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-rt_orchestrator-workflow_status_changed_simple"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.mx_long_term_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_bliss_site"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "airport.fact_airport_pickup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.profile"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_users"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_comm"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-expired"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.active_product_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.non_processable_txns"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-documents-doc_audit"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.usd_fx"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_dispatch_metrics_job_message"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_business_facility"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.product_type"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_public.market_value_user_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.jump_helix_rider_kpi"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-contact_router-lp-session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.blackbird_jira_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rawdata_user.kafka_hp_thor_safety_jira_ticket_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "map_creation.geofences_hexographer_all"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_forecasting.model_performance_metric_consolidated"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_ticket_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.facebook_click"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_ezfeez_fees_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.dim_city_mdl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eater_session_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.mx_long_term_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_shipper_accounts"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-rider-live-location-sharing-rider-location"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_bookings"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.central_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.dim_marketing_ad"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "map_creation.places_eats_id_mapping"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_order_details"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.vtm_standard"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.trip_level_raw"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.on_trip_incidents_pre_validation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_winterfell_update_rs_small_order_fee_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_currency"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-offer-expired"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eater_sessions_v6"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.analytics_eater"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "asgard.fact_background_check_status"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-event-web"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_statuslogstore_supplysummaries_cells"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_models.rider_flib"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.facebook_dailyperf"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "diamonds.dim_date_chunk"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.riders_weekly_stats_core_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_web_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-morpheus-experiment_treatments-treatment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.greenarrow_eats_app_expt_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_documents_document_eviction_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "demand_intelligence.demand_intelligence_training_feature_table_v3"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.rxgy_sapphire_rider_treatment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.np_observability_staging_base_table_trips"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_forecasting.forecasting_cityscope"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_contact"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_courier_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.climacell_observed_weather"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.analytics_channel_mapping_mdl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.courier_rush_timestamps"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.fmcsa_census"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.supply_hour_view_minutely"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.asparagus_usage_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.loyalty_points_transaction_records"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_preloads_event_user_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "octane.tags_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_carousel_store_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.initech_employees"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "transit.agg_app_rider_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_daily_dim_location_pu"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_hexagon7"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-waypoint-location-set"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_vehicle_vehicle_trait"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_bliss_site"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.dedicated_lanes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_restaurant_gateway_delivery_settings_update_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_rider_cost_curve"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_rider_spend_distribution"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rider.fact_rider_app_event_error"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_hbostore_udr_contact_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.salesforce_account"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.whober_freight_carrier_teams"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-canceled"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_forecasting.cityscope_ltf_model_performance_metric_consolidated"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.summary_experiment_user_treatment_inclusion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.sapphire_rider_treatment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-assigned"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restaurant_db.rdb"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-cleopatra-subscriptions-sms"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_ezfeez_fees_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_shipper"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.driver_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-guuneuver-routes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_dim_car_types"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eater_app_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.ride_check_master_table"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_daily_rider_segment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_morpheus_experiment_treatments_inclusion_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_promo_metrics_latest"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.managed_campaign_details"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.endive_transactions_product_type"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restricted_dwh.fact_bliss_inperson_interaction"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.endive_user_panels_filtered"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uflow.post_signup_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_oyster_promotion_instance_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_app_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_restaurant_kpi_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_geohash6"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_restaurant_gateway_delivery_settings_update_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-gulfstream_orderscrubber-orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_models.gi_rider_features_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.profile"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.loyalty_points_transaction_records"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp.event.user.rider_app.experiment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.carrier_driver"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_document_approver_audit"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_statuslogstore_statuslogs_cells"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.courier_rush_timestamps"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "adtech.opt_beeswax_logs_bids"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.initech_organizations"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eater_web_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_jira_tickets_pre_validation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_forecasting.forecasting_cityscope"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.incentive_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.ue_rt_metrics_historic"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_dxgy_cost_curve"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.dedicated_lanes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_eats_etd_prediction_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_internal_tag"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_documents_doc_audit_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_daily_driver_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_rides_vc_components"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_driver_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.supply_hour_view"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.network_pricing_time_buckets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_drivers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-eats-promotion-gateway-user-promotion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "airport.airports"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.variable_contribution"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_agg_store_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.fact_eats_client_restaurant_trips"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_feedback"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_payment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_public.market_value_user_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-completed"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rider.test_fact_rider_app_event_rawlogs"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_two_sided_refund_trip_level_check_v3"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_vehicles_color_translation_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.rxgy_training_label"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_campaign"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_users"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.trip_level_raw"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.blackbird_jira_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.pcmiler_distance"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "commops.dim_bliss_custom_mapping_emea"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_eats_workflow_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.climacell_forecasted_weather_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "octane.tags_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.fmcsa_census"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.demand_jobs_count"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "capacity_engineering.datastores_orc"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rawdata_user.kafka_hp_blackbird_jira_tickets_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_document_audit"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.pcmiler_distance"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_interfaces_missed_txns_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_bookings"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_hbostore_udr_contact_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.greenarrow_eats_app_expt_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.metric_debug_log"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.sapphire_gy_post_xp_weekly_summary"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_forecasting.cityscope_ltf_model_performance_metric_consolidated"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_realtime"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_configstore_udr_geofences_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.climacell_forecasted_weather_hourly"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eater_sessions_v6"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_document_approver_audit"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_driver_partner_association"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_promo_apply"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_bliss_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.audit_platform_jira_ticket"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.facebook_dailyperf"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.cerebral_response_scores"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_ticket_analytics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.bpt_deduped_table_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_ad_partitioned_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-oyster-promotion-instance"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_jira_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.chain_driver_job"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.demand_jobs_count"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_action"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.fact_eats_payment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_dim_car_types"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.event_user_place_order_marketplace_skus"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.populous_driver"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_refunds_appeasements"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-ezpzpass-views-calculate_fare"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-preloads-event-user-experiment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_ct_driver_action"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.ride_check_master_crash_table"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_basis_eta_noncar_v1"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_winterfell_update_rs_small_order_fee_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.marketing_attributed_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_quantile"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.loyalty_horcrux_ar_and_afcr"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_facility"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_comm"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_web_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats_stg.fact_eats_promo_apply_epg"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_ad_partitioned"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-thor-safety-jira-ticket"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "transit.agg_app_rider_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_offer_calculation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_survey"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.organization"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_driver_app_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_bpt_partitioned"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.event_user_marketplace_scrolled"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_drivers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_tag"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_eats_app_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_two_sided_refund_trip_level_check_v3"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.endive_user_panels_filtered"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.fact_freight_carrier_app_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_fares_internal"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "airport.fact_airport_pickup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_view"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.driver_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.audit_platform_safety_ticket_healing_response"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.loyalty_tier_status"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.city_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_rider_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-created"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-restaurant-gateway-delivery-settings-update"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_safetystore_flack_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_billings"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_shipper_accounts"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_category"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_packets_sent"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_geohash5"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.previous_adjustment_model_training_data"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "subscriptions.upsell_city_offer_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_banker_flat_jelines"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_workflow_eats_op_dt"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hdrone.mastermind_features"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_statuslogstore_statuslogs_cells"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.jira_tickets_master"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.voucher_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-unassigned"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_contact"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_preloads_event_user_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_agg_store_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.dim_tag"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.mysql_documents_document_store_document_types_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.audit_platform_transparency_report_response"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hdrone.mastermind_features"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_send_to_jira_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_contact_router_lp_session_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.fact_freight_driver_location_update"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_view"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_byoq_lifecycle"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_control_ds.rider_defect_rate"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.endive_fare_items"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_shipper_memberships"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_quantile"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_driver_referral_invite"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.endive_fare_items"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.campaign_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_contact_router_lp_session_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_payment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.campaign_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_promo_apply"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.salesforce_opportunity"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_ct_timegeo_distribution"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.climacell_forecasted_weather_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_basis_courier_inapp_signals_v1"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.property_instance"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_ticket_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.event_user_marketplace_scrolled"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.dim_user_latest_device"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_bpt_partitioned_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_basis_courier_inapp_signals_v1"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.fact_eats_payment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_documents_doc_audit_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_shippers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restricted_dwh.fact_trip_contact"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_basis_eta_noncar_v1"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_eats_store_restaurant_order_config_update_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.zendesk_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-ministry-comms_log_clean"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-populous-user_tag_change"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "commops.northam_coe_workday"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_rider_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.powerloop_tracking_current"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_morpheus_experiment_treatments_treatment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.ride_check_master_crash_table"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_spot_opportunities"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-api-created_trips"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.property_type"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rawdata_user.kafka_hp_thor_safety_related_auditor_response_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rawdata_user.kafka_hp_thor_safety_jira_ticket_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_eats_store_menu_entity_update_v4_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_refunds_appeasements"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_document_audit"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_business_kpi_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_chat_action"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-offered"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_eats_etd_prediction_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.city_bandwagon_orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.carriers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "tripex.poka_yoke_daily_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_eats_app_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.rxgy_training_label"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_audited_fields"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_statuslogstore_supplysummaries_cells"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.bandwagon_order_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.supply_hour_view_hourly"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.central_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.eu_yearly_seasonality"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_bliss_liveops_associations_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp.event.user.driver_app.experiment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "demand_intelligence.city_hexster_namespace_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_insurance.origami_incidents"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.rxgy_sapphire_rider_treatment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_vehiclestore_udr_vehicle_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_eater_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.internal_core_billings_city_hourly_aggregation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_lifetime_comm_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_driver_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_promo_apply"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restricted_dwh.fact_trip_contact"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.daily_active_vvids"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_language"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_ct_driver_action"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_offer_payment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_predispatch_realtime"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_geohash6"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.city_avg_saving"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-eats_store-businesslocation-update"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-order-state_changes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp.event.user.eats_app"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_dispatch_metrics_plan_message"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_configstore_udr_geofences_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp.event.user.eats_app.experiment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "adtech.opt_beeswax_logs_wins"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-morpheus-experiment_treatments-inclusion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_dispatch_metrics_job_message"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_promo_apply"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eater_web_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.product_type"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.bandwagon_order_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.campaign_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_banker_flat_jelines"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "vehicles.fact_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_bliss_liveops_associations_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_web_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_billings"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_bliss_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.audit_platform_transparency_report_response"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.previous_adjustment_model_training_data"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.dim_document_audit"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.incentive_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.dim_experiment_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hdrone.eater_promotion_state_change"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "demand_intelligence.vvid_product_type_info_x_only"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_dxgy_cost"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_bliss_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_lifetime_comm_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_promo_redeem"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.carrier_web_daily_activities"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.metric_debug_log"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_device"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-documents-document_eviction"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "asgard.fact_background_check_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.jump_helix_rider_kpi"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_eats_etd_prediction_v1"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_tag"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.carrier_web_daily_activities"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.populous_driver"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "asgard.fact_background_check_status"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-multipass-pass-redemptions"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.mysql_documents_document_store_documents_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_promo_metrics_latest"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.daily_active_routes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_promo_redeem"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.dedicated_lanes_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.on_trip_incidents_snapshot"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_app_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_gi_internal.endive_transactions_final"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.incentive_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_load_quality"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_gi_foundation.receipt_panel"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-octane-aggregate_table_updates"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eater_session_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.bpt_deduped_table_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_gi_internal.endive_transactions_final"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.rtp_restaurant_radii"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.ride_check_master_table"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "demand_intelligence.demand_intelligence_training_feature_table_v3"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_eats_app_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_shippers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_vehiclestore_udr_vehicle_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "map_creation.geofences_hexographer_all"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.bandwagon_restaurant_stats"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_agg_hourly_order_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.campaign_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_device"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_rider_spend_distribution"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_rider_app_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.non_processable_txns"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_rfp"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.fact_freight_driver_location_update"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.on_trip_incidents_pre_validation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.non_processable_txns_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_morpheus_experiment_treatments_inclusion_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_secondary_vehicle"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.endive_transactions_product_type"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_campaign"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restaurant_db.rdb"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats_stg.missing_luna_promocodes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.supply_hour_view"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_jira_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_ad_partitioned_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.summary_experiment_user_treatment_inclusion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-mobile_transaction-product_request"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_rides_vc_components"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.initech_organizations"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "airport.fact_airport_dropoff"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restricted_dwh.fact_bliss_inperson_interaction"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-ezfeez-fees"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-horcrux-aggregate-events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.analytics_city_country_mapping_mdl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-eats_store-menu_entity_update_v4"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_dxgy_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_ct_cost_curve"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.managed_campaign_details"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_driver_partner_association"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.dim_document_audit"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.trip_geohash7_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.non_processable_txns_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.courier_agg_hourly_supply"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.trip_geohash6_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.daily_active_routes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_bandwagon_orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.sapphire_gy_post_xp_weekly_summary"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_bi_top_eats_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.fact_freight_carrier_app_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_bliss_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.mysql_documents_document_store_documents_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "commops.northam_coe_workday"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_predispatch_realtime"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.property_instance"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_courier_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_documents_document_eviction_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "vehicles.fact_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.driver_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_order_details"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_tag"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_driver"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.dim_eats_promotion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_daily_driver_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.riders_weekly_stats_core_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_eats_store_restaurant_order_config_update_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-eats-store-restaurant_order_config_update"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_business_facility"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.vtm_versions"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_driver"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.trip_geohash6_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-thor-safety-related-auditor-response"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_secondary_vehicle"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "everything_rush.fact_rush_trip_cancellation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.loyalty_tier_status"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.fact_eats_client_restaurant_trips"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.unifeed_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_rider_app_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.salesforce_account"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_carriers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_daily_rider_segment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-gairos_ingestion-gulfstream-orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.climacell_observed_weather"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_promotion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_packets_sent"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_rider_app_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_ad_partitioned"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_interfaces_missed_txns_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "commops.dim_bliss_custom_mapping_emea"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "diamonds.dim_date_chunk"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.city_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-winterfell-update-rs-small-order-fee"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_shipper_memberships"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_carousel_store_events"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_tag"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_audited_fields"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_ct_cost_curve"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.audit_platform_jira_ticket"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.incentive_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_job_state"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.dim_eats_promotion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.city_avg_saving"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-cleopatra-subscriptions-email"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_rider_app_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.geofence_chain"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.employee"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_deduped_bliss_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restricted_dwh.fact_arch_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "adtech.opt_beeswax_logs_bids"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_dxgy_cost_curve"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_gi_foundation.receipt_panel"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-bliss-liveops-associations"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_basis_preptime_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_daily_city_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.new_calculated_first_order_timestamps"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_deduped_jira_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.mysql_documents_document_store_reject_reasons_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_carrier"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.asparagus_usage_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.courier_agg_hourly_supply"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.summary_experiment_user_treatment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_workflow_eats_op_dt"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_jira_tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_carriers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "map_creation.places_eats_id_mapping"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.network_pricing_time_buckets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.organization"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_vehiclestore_udr_vehicletype_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "everything_rush.fact_rush_trip_cancellation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.vtm_standard"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.whober_freight_carrier_teams"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_payment_category"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_vehicle_vehicle_trait"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.acceptance_rate_model_training_data"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_control_ds.rider_defect_rate"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rawdata_user.kafka_hp_blackbird_jira_tickets_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_ump_conversations_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "tripex.poka_yoke_daily_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_eats_etd_prediction_v1"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.on_trip_incidents"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.jira_tickets_master"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_weekly_provider_earnings"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.event_user_place_order_marketplace_skus"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.health_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_insurance.origami_incidents"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.health_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_driver_app_experiment_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rider.test_fact_rider_app_event_rawlogs"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_oyster_promotion_instance_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.bpt_deduped_table"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_language"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "capacity_engineering.datastores_orc"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_models.gi_rider_features_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "adtech.opt_beeswax_logs_wins"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.michelangelo_basis_preptime_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_workflow_etd_details"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_daily_city_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.summary_experiment_user_treatment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.sample_size_cohort"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_eats_incidents_master"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.offer_potential_saving_by_user"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-the_unity_device-call_logs"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_carrier"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "subscriptions.upsell_targeting_features_label_training_global_v0"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_rfp"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_jira_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.audit_platform_safety_ticket_healing_response"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.eats_dispatch_metrics_plan_message"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "personalization.sapphire_rider_treatment"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-api-client_signups"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.mysql_documents_document_store_reject_reasons_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-eatercart-state_change"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.on_trip_incidents"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.unifeed_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.active_product_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_realtime"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_vehiclestore_udr_vehicletype_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.agg_weekly_provider_earnings"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_vehicles_color_translation_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.bandwagon_restaurant_stats"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_forecasting.model_performance_metric_consolidated"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_deduped_bliss_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_agg_hourly_order_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.bpt_deduped_table"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.city_bandwagon_orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_hbostore_udr_contact_cells"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hdrone.eater_promotion_state_change"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.gi_rider_features_library"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_feedback"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_models.gi_rider_features_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_chat_action"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.gi_rider_features_library"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_promotion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_action"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "commops.eats_latam_ssot_daily_ticket_level"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_promo_redeem"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_dxgy_cost"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.offer_potential_saving_by_user"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_bpt_partitioned_staging"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_bliss_tickets_pre_validation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "demand_intelligence.vvid_product_type_info_x_only"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_web_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.climacell_forecasted_weather_hourly"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_insurance.rate"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.hexcluster_hour_incentive_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_job_state"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_eats_incidents_master"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_models.rider_flib"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "subscriptions.upsell_city_offer_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_spot_opportunities"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_ump_conversations_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.ue_rt_metrics_historic"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.dim_marketing_ad"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.eu_yearly_seasonality"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "asgard.fact_background_check_event"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_predispatch"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "mdh.analytics_eater_kpi_daily_rollup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_workflow_etd_details"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_jira_tickets_pre_validation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "safety.trip_geohash7_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_rating"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "products.geofence_chain"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.rtp_restaurant_radii"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.mysql_documents_document_store_document_types_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_bliss_survey"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.analytics_eater"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp.event.user.driver_app"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.analytics_load_quality"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eats_fares_internal"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.dedicated_lanes_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.lookup_payment_category"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.chain_driver_job"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.sf_account_activity_history"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_trip_rating"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp.event.user"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "restricted_dwh.fact_arch_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.drivers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_driver_referral_invite"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_geohash5"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "demand_intelligence.city_hexster_namespace_info"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.facebook_click"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_dxgy_timegeo_distribution"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_hbostore_udr_contact_cells"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "eds.fact_eater_app_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rawdata_user.kafka_hp_thor_safety_related_auditor_response_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_bi_top_eats_daily"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "umetric.hexcluster_hour_incentive_metrics"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.usd_fx"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_models.gi_rider_features_session"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_finance.fds_daily_dim_location_pu"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "freight_analytics.dim_shipper"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "gi_internal.internal_core_billings_city_hourly_aggregation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver.loyalty_horcrux_ar_and_afcr"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.on_trip_incidents_snapshot"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "airport.airports"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "experimentation.sample_size_cohort"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.carrier_driver"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.employee"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_offer_calculation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.vtm_versions"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "airport.fact_airport_dropoff"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "subscriptions.upsell_targeting_features_label_training_global_v0"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.analytics_eater"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-pickup-arrived"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_orders_hexagon7"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.store_bandwagon_orders"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.drivers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_dxgy_timegeo_distribution"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.fact_dxgy_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_rider_cost_curve"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uberpool.daily_active_vvids"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.variable_contribution"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_rcp.rcp_fact_table_bpt_partitioned"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp_demand_job-pickup-completed"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uflow.post_signup_v2"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.fact_promo_redeem"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata_user.kafka_hp_eats_store_menu_entity_update_v4_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_related_bliss_tickets_pre_validation"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats.restaurant_internal_tag"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-blackbird-jira-tickets"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.analytics_channel_mapping_mdl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_eats_stg.missing_luna_promocodes"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-geotemporal-workflow_etd_summary"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.supply_hour_view_minutely"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "u4b.voucher_trip"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "euclid.analytics_city_country_mapping_mdl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.kafka_hp_event_user_eats_app_nodedup"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "rawdata.schemaless_safetystore_flack_rows"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "secure_safety.safety_ticket_healing_life_cycle_send_to_jira_etl"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "uber_freight.carriers"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "carrots.driver_payments"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "hp-geofences-data-ingestion"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "driver_pricing_platform.acceptance_rate_model_training_data"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_data.supply_hour_view_hourly"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "dwh.dim_currency"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "commops.eats_latam_ssot_daily_ticket_level"
+        }
+      },
+      {
+        "typeName": "Dataset",
+        "entityInstance": {
+          "fullyQualifiedName": "marketplace_investments.sia_ct_timegeo_distribution"
+        }
+      }
+    ]
+  },
+  "headers": {
+    "as": "thrift"
+  }
+}
